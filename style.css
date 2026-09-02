@@ -1,0 +1,25 @@
+h1{
+    color: rgb(51, 223, 122);
+    text-align: center;
+    text-shadow: 5,10;color: white;
+}
+body{
+    background-color:green ;
+  
+}
+h2{
+    color: white;
+    text-align: justify;
+    text-shadow: 5,10;color: aqua;
+
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    border-style: solid;
+    border-color: red green blue yellow;
+    border-radius: 9px;
+    outline: 4px solid red;
+    padding: 10px;
+    background-color: aqua;
+    margin: 12px;
+}

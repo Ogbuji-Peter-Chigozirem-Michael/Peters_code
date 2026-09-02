@@ -1,0 +1,15 @@
+.a{
+background-color: darkgoldenrod;
+border: solid, darkgoldenrod;
+}
+.b{
+    background-color: indianred;
+    border: solid, indianred;
+}
+.c{
+    background-color: dimgray;
+    border: solid,dimgray;
+}
+div{
+  float: right;
+}

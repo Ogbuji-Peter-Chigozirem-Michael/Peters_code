@@ -1,0 +1,29 @@
+section{
+    background-color: aqua;
+border-style: solid;
+border-color: aqua;
+border-radius: 5px;
+}
+h1{
+    color: brown;
+}
+button{
+background-color: brown;
+color: white;
+font-size: 14px;
+padding: 10px 20px;
+border: none;
+border: radius 8=4px; 
+cursor: pointer;
+}
+.trial-btn:hover{
+    background-color: darkred;
+}
+span{
+  background: linear-gradient(90deg,violet,blue);
+  background-clip: text;
+  color: transparent;
+  display: inline-block;
+}
+
+

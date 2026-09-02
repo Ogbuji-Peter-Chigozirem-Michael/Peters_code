@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+.grid-container{
+    display: grid;
+    grid-template-areas: 'header'
+    'menu'
+    'content'
+    'fact'
+    'footer';
+    gap: 10px;
+}
+@media(min-width: 600px){
+    .header{grid-area: 1/span 6;}
+    .menu{grid-area: 2/span1;}
+    .content{grid-area: 2/ span4;}
+    .facts{grid-area: 2/ span1;}
+    .footer{grid-area: 3/ span6;}
+}
+.header{
+    border: solid;
+    border-color: brown;
+}
+.menu{
+    border: solid;
+    border-color: brown;
+}
+.content{
+    border: solid;
+    border-color: brown;
+}
+.facts{
+    border: solid;
+    border-color: brown;
+}
+.footer{
+    border: solid;
+    border-color: brown;
+}
