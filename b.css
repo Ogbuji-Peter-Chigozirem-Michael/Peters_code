@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(44, 80, 94);
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 15% auto;
+}
+
+.container{
+    background-color: black;
+    width: 20%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+input{
+    padding: 10px;
+    
+    
+}
+
+
